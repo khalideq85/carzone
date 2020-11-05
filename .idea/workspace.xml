@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c298a79-7e41-40ec-ada1-b6e27c06cc31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carzone/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/carzone/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +167,8 @@
       <workItem from="1603905107336" duration="1110000" />
       <workItem from="1603906433155" duration="619000" />
       <workItem from="1604064338241" duration="762000" />
-      <workItem from="1604504403649" duration="2690000" />
+      <workItem from="1604504403649" duration="3625000" />
+      <workItem from="1604604916199" duration="304000" />
     </task>
     <servers />
   </component>

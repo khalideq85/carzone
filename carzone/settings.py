@@ -26,7 +26,7 @@ SECRET_KEY = '%fiz@t#j3#thfev+0_lih6oapxixvj0e-iqq6l#)lzx9bd+bhy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shielded-coast-85104.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
 
 
 LOGIN_REDIRECT_URL = 'dashboard'
